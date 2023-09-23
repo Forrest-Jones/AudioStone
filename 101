@@ -1,0 +1,61 @@
+{
+  "Logins": [
+    {
+      "Email": "frankytheclaw@gmail.com",
+      "Username": "frankytheclaw",
+      "Password": "frankytheclaw",
+      "Coins": [],
+      "id": 1
+    },
+    {
+      "Email": "frankytheclaw@gmail.com",
+      "Username": "frankytheclaw",
+      "Password": "frankytheclaw",
+      "Coins": [],
+      "id": 2
+    },
+    {
+      "Email": "macktheknife@gmail.com",
+      "Username": "macktheknife",
+      "Password": "macktheknife",
+      "Coins": [],
+      "id": 3
+    },
+    {
+      "Email": "normanmailoer@gmil.com",
+      "Username": "normanmailer",
+      "Password": "normanmailer",
+      "Coins": [],
+      "id": 4
+    },
+    {
+      "Email": "hankarron@hank.com",
+      "Username": "hankarron",
+      "Password": "hankarron",
+      "Coins": [],
+      "id": 5
+    },
+    {
+      "Email": "bladejohson@blade.com",
+      "Username": "blade",
+      "Password": "bladejohnson",
+      "Coins": [],
+      "id": 6
+    },
+    {
+      "Email": "asd",
+      "Username": "andrewstown",
+      "Password": "asd",
+      "Coins": [
+        "usd-coin",
+        "avalanche-2",
+        "tron",
+        "litecoin",
+        "chainlink",
+        "the-open-network"
+      ],
+      "id": 7
+    }
+  ]
+}
+
